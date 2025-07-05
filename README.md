@@ -56,6 +56,3 @@ A few key columns from the dataset:
 - Scikit-learn
 - XGBoost
 ---
-
-## 📂 Project Structure
-
